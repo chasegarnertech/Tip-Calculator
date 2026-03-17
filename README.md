@@ -1,11 +1,3 @@
-Nice — adding a good README is what makes your GitHub project look professional. Since you’re building a portfolio while studying CS at WGU, this helps recruiters quickly understand what you built.
-
-You can copy this directly into your README.md.
-
-⸻
-
-:::writing{variant=“standard” id=“74261”}
-
 Tip Calculator
 
 A simple Python program that calculates the tip and total bill amount based on a user’s input.
