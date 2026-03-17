@@ -15,8 +15,9 @@ How It Works
 	4.	The program calculates the total bill including the tip.
 	5.	The results are displayed in the terminal.
 
-Example
+## Example
 
+```
 Enter the bill amount: 50
 Enter tip percentage: 20
 
@@ -24,7 +25,7 @@ Enter tip percentage: 20
 Bill: $50.00
 Tip: $10.00
 Total: $60.00
-
+```
 Concepts Used
 	•	Python variables
 	•	input() for user interaction
@@ -33,12 +34,13 @@ Concepts Used
 	•	String formatting
 	•	Console output with print()
 
-File Structure
+## File Structure
 
+```
 Tip-Calculator
 ├── tip_calculator.py
 └── README.md
-
+```
 Future Improvements
 
 Possible improvements for this project:
